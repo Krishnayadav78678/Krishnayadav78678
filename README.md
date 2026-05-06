@@ -3,13 +3,12 @@
 
 Email Me 👉 ✉️ **krishnayadav78678@gmail.com**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Mini projects in Data Structures, Web Development & Cloud basics 
+- 🌱 **I’m currently learning:** Python, Java, Data Structures & Algorithms, DBMS
+- 👯 **I’m looking to collaborate on:** Open-Source projects and innovative student projects 
+- 🤔 **I’m looking for help with:** Improving coding skills and real-world project building
+- 📫 **How to reach me:** krishnayadav78678@gmail.com
+- ⚡ **Fun fact:** Turning coffee into code ☕💻 
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Krishnayadav78678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
